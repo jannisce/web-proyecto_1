@@ -1,5 +1,4 @@
 import './Topicality.scss'
-import React from 'react'
 import MiniTarget from '../MiniTarget/MiniTarget'
 
 function Topicality() {

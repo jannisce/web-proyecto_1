@@ -1,5 +1,4 @@
 import './Careers.scss'
-import React from 'react'
 
 function Careers() {
   return (

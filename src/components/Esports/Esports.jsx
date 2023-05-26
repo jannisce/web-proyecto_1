@@ -1,5 +1,4 @@
 import './Esports.scss'
-import React from 'react'
 import GameCard from '../GameCard/GameCard'
 
 function Esports() {

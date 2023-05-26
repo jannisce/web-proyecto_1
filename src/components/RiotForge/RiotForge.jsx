@@ -1,5 +1,4 @@
 import './RiotForge.scss'
-import React from 'react'
 import GameCard from '../GameCard/GameCard'
 
 function RiotForge() {

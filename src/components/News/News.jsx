@@ -1,5 +1,4 @@
 import './News.scss'
-import React from 'react'
 
 function News() {
   return (
@@ -14,7 +13,7 @@ function News() {
           poster="https://www.riotgames.com/darkroom/2000/233518b5812712d4b4e1e53e78cc0098:4faf10efc8d17d31fe93ba4b6e764f23/convergence-ka-riotgames-3840x1600-update.png"
         >
           <source
-            src="video/global-esports-msi-hype-masthead.mp4"
+            src="https://www.youtube.com/watch?v=UeOFKSq7RJQ&feature=youtu.be"
             type="video/mp4"
           />
         </video>

@@ -1,5 +1,4 @@
 import './App.scss'
-import React from 'react'
 import News from './components/News/News'
 import Topicality from './components/Topicality/Topicality'
 import Careers from './components/Careers/Careers'
