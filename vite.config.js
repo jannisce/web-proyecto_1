@@ -9,4 +9,9 @@ export default defineConfig({
     eslint(),
     postcss() 
   ],
+  test: {
+    setupFiles: './src/setupTests.js',
+    globals: true,
+    environment: 'jsdom'
+  },
 });
