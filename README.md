@@ -1,4 +1,5 @@
 # Proyecto 1: Página web
+![Logo](https://sonsofks.files.wordpress.com/2022/02/002_rg_2021_full_lockup_red.png?w=1400)
 ## _Riot Games_
 
 > Note: Publicado en [Netlify][netlify] y el servidor de la clase [uvgenios.online][server-clase]
