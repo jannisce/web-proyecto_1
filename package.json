@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "ssr": "node server/index.cjs",
     "test": "vitest"
+    "build:css": "postcss src/styles/main.css -o dist/styles/main.css"
   },
   "dependencies": {
     "@babel/preset-env": "^7.21.5",
