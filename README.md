@@ -44,7 +44,6 @@ Para revisar linting:
 yarn lint
 ```
 ![Logo](https://64.media.tumblr.com/c7b5939515edd89ed11af49e9fad380e/tumblr_o7ccrqC1D81qa4iv8o2_500.gif)
-
 [node.js]: <https://nodejs.org/en>
 [netlify]: <https://silly-kitsune-5fbf17.netlify.app>
 [server-clase]: <https://uvgenios.online/21016/dist-proyecto-1/>
