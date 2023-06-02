@@ -1,10 +1,10 @@
 # Proyecto 1: Página web
 ![Logo](https://sonsofks.files.wordpress.com/2022/02/002_rg_2021_full_lockup_red.png?w=1400)
-## _Riot Games_ _[riot]_
+## _Riot Games_
 
 > Note: Publicado en [Netlify][netlify] y el servidor de la clase [uvgenios.online][server-clase]
 
-Este proyecto es una replica de la página principal del sitio web Riot Games, los componentes hechos fueron:
+Este proyecto es una replica de la página principal del sitio web [Riot Games], los componentes hechos fueron:
 - Portada
 - Actualidad
 - Nuestros juegos
@@ -54,4 +54,4 @@ yarn lint
 [yarn]: <https://yarnpkg.com>
 [sass]: <https://sass-lang.com>
 [PostCSS]: <https://postcss.org>
-[riot]: <https://www.riotgames.com/en>
+[Riot Games]: <https://www.riotgames.com/en>
