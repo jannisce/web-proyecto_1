@@ -43,7 +43,7 @@ Para revisar linting:
 ```sh
 yarn lint
 ```
-![Logo](https://64.media.tumblr.com/6345f34507cf317bac021fa944d99a2f/tumblr_o7ccrqC1D81qa4iv8o6_500.gifv)
+![Logo](https://64.media.tumblr.com/c7b5939515edd89ed11af49e9fad380e/tumblr_o7ccrqC1D81qa4iv8o2_500.gif)
 
 [node.js]: <https://nodejs.org/en>
 [netlify]: <https://silly-kitsune-5fbf17.netlify.app>
